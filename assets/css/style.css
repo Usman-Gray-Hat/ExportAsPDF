@@ -1,0 +1,14 @@
+*{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.jumbotron{
+    font-weight:900;
+}
+.dataTables_wrapper .dataTables_filter input {
+    border: 1px solid #323546;
+    margin-bottom: 10px;
+}
+#usersTable{
+    border: 1px solid #a1a7bb;
+}
